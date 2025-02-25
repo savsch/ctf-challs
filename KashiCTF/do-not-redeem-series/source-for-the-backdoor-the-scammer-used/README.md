@@ -1,0 +1,4 @@
+## Disclamer
+
+This is a haphazardly put-together carcass-of-a-trojan which made a good ctf challenge but would make an extremely poor piece of spyware in the wild. (Given the fact I started making these challenges after the CTF started) It has no mechanisms for keeping itself alive for long in the background, waking up periodically with easy to register manifest receivers, or hiding its launcher icon. If I were to make a serious _~~real-world~~ proof-of-concept_ equivalent, it'd employ loads of such tactics which are simply missing here.
+I think, however, that even something this simple might have worked to some extent on many old (pre-oreo) android versions.
